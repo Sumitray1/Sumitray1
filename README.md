@@ -1,6 +1,6 @@
 ## Hi there 👋,
 <p>Undergraduate front-end developer  I have a passion for creating visually appealing and user-friendly websites and web applications.</p><br>
-- ℹ I am a continuous learner, and I am always looking for new ways to improve my skills and stay up-to-date with the latest industry trends and best practices.
+-  ℹ I am a continuous learner, and I am always looking for new ways to improve my skills and stay up-to-date with the latest industry trends and best practices.<br>
 - 🚀I am excited about the opportunity to work on new and challenging projects as a front-end developer and am eager to bring my skills and experience to your team.
 
 ## 🌐 Connnect With Me :
