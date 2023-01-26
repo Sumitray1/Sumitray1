@@ -1,7 +1,7 @@
 ## Hi there 👋,
-<p>Undergraduate front-end developer  I have a passion for creating visually appealing and user-friendly websites and web applications.</p><br>
--  ℹ I am a continuous learner, and I am always looking for new ways to improve my skills and stay up-to-date with the latest industry trends and best practices.<br>
-- 🚀I am excited about the opportunity to work on new and challenging projects as a front-end developer and am eager to bring my skills and experience to your team.
+<p>I am Undergraduate front-end developer, I have a passion for creating visually appealing and user-friendly websites and web applications.</p><br>
+ ℹ I am a continuous learner, and I am always looking for new ways to improve my skills and stay up-to-date with the latest industry trends and best practices.<br>
+🚀I am excited about the opportunity to work on new and challenging projects as a front-end developer and am eager to bring my skills and experience to your team.
 
 ## 🌐 Connnect With Me :
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/100004349836670) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ray_sumit_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sumit-ray-0b992b215) 
